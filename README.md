@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @awshesh1
+- 👋 Hi, I’m Awshesh
 - 👀 I’m interested in data science, stats & web3 
 - 🌱 I’m currently learning data science, javascript , python and react
 - 💞️ I’m looking to collaborate on data science & python 
